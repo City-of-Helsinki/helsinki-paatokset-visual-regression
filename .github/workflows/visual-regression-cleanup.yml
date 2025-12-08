@@ -9,6 +9,6 @@ concurrency:
 
 jobs:
   tests:
-    uses: city-of-helsinki/drupal-gh-actions/.github/workflows/visual-regression-cleanup.yml@UHF-12084
+    uses: city-of-helsinki/drupal-gh-actions/.github/workflows/visual-regression-cleanup.yml
     with:
       repository: city-of-helsinki/helsinki-paatokset-visual-regression
