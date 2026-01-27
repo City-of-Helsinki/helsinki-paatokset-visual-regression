@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_0_Breakpoint_XS.png",
-        "test": "../bitmaps_test/20260127-070357/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260127-071827/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_0_Breakpoint_XS.png",
         "selector": "#block-hdbt-subtheme-frontpagesearchheroblock",
         "fileName": "full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_0_Breakpoint_XS.png",
         "label": "Landing page - hero",
@@ -27,7 +27,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_1_Breakpoint_S.png",
-        "test": "../bitmaps_test/20260127-070357/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260127-071827/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_1_Breakpoint_S.png",
         "selector": "#block-hdbt-subtheme-frontpagesearchheroblock",
         "fileName": "full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_1_Breakpoint_S.png",
         "label": "Landing page - hero",
@@ -50,7 +50,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_2_Breakpoint_M.png",
-        "test": "../bitmaps_test/20260127-070357/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260127-071827/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_2_Breakpoint_M.png",
         "selector": "#block-hdbt-subtheme-frontpagesearchheroblock",
         "fileName": "full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_2_Breakpoint_M.png",
         "label": "Landing page - hero",
@@ -73,7 +73,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_3_Breakpoint_L.png",
-        "test": "../bitmaps_test/20260127-070357/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260127-071827/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_3_Breakpoint_L.png",
         "selector": "#block-hdbt-subtheme-frontpagesearchheroblock",
         "fileName": "full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_3_Breakpoint_L.png",
         "label": "Landing page - hero",
@@ -96,7 +96,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_4_Breakpoint_XL.png",
-        "test": "../bitmaps_test/20260127-070357/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260127-071827/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_4_Breakpoint_XL.png",
         "selector": "#block-hdbt-subtheme-frontpagesearchheroblock",
         "fileName": "full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_4_Breakpoint_XL.png",
         "label": "Landing page - hero",
@@ -106,20 +106,23 @@ report({
         "expect": 0,
         "viewportLabel": "Breakpoint_XL",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": 16
           },
-          "misMatchPercentage": "0.00"
-        }
+          "rawMisMatchPercentage": 11.380069813829788,
+          "misMatchPercentage": "11.38",
+          "analysisTime": 580
+        },
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_4_Breakpoint_XL.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_5_Breakpoint_XXL.png",
-        "test": "../bitmaps_test/20260127-070357/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260127-071827/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_5_Breakpoint_XXL.png",
         "selector": "#block-hdbt-subtheme-frontpagesearchheroblock",
         "fileName": "full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_5_Breakpoint_XXL.png",
         "label": "Landing page - hero",
@@ -142,7 +145,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Notices_0_component--all-articles-block_0_Breakpoint_XS.png",
-        "test": "../bitmaps_test/20260127-070357/full_Notices_0_component--all-articles-block_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260127-071827/full_Notices_0_component--all-articles-block_0_Breakpoint_XS.png",
         "selector": ".component--all-articles-block",
         "fileName": "full_Notices_0_component--all-articles-block_0_Breakpoint_XS.png",
         "label": "Notices",
@@ -165,7 +168,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Notices_0_component--all-articles-block_1_Breakpoint_S.png",
-        "test": "../bitmaps_test/20260127-070357/full_Notices_0_component--all-articles-block_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260127-071827/full_Notices_0_component--all-articles-block_1_Breakpoint_S.png",
         "selector": ".component--all-articles-block",
         "fileName": "full_Notices_0_component--all-articles-block_1_Breakpoint_S.png",
         "label": "Notices",
@@ -188,7 +191,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Notices_0_component--all-articles-block_2_Breakpoint_M.png",
-        "test": "../bitmaps_test/20260127-070357/full_Notices_0_component--all-articles-block_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260127-071827/full_Notices_0_component--all-articles-block_2_Breakpoint_M.png",
         "selector": ".component--all-articles-block",
         "fileName": "full_Notices_0_component--all-articles-block_2_Breakpoint_M.png",
         "label": "Notices",
@@ -211,7 +214,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Notices_0_component--all-articles-block_3_Breakpoint_L.png",
-        "test": "../bitmaps_test/20260127-070357/full_Notices_0_component--all-articles-block_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260127-071827/full_Notices_0_component--all-articles-block_3_Breakpoint_L.png",
         "selector": ".component--all-articles-block",
         "fileName": "full_Notices_0_component--all-articles-block_3_Breakpoint_L.png",
         "label": "Notices",
@@ -234,7 +237,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Notices_0_component--all-articles-block_4_Breakpoint_XL.png",
-        "test": "../bitmaps_test/20260127-070357/full_Notices_0_component--all-articles-block_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260127-071827/full_Notices_0_component--all-articles-block_4_Breakpoint_XL.png",
         "selector": ".component--all-articles-block",
         "fileName": "full_Notices_0_component--all-articles-block_4_Breakpoint_XL.png",
         "label": "Notices",
@@ -257,7 +260,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Notices_0_component--all-articles-block_5_Breakpoint_XXL.png",
-        "test": "../bitmaps_test/20260127-070357/full_Notices_0_component--all-articles-block_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260127-071827/full_Notices_0_component--all-articles-block_5_Breakpoint_XXL.png",
         "selector": ".component--all-articles-block",
         "fileName": "full_Notices_0_component--all-articles-block_5_Breakpoint_XXL.png",
         "label": "Notices",
@@ -280,7 +283,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_0_document_0_Breakpoint_XS.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers_0_document_0_Breakpoint_XS.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_0_document_0_Breakpoint_XS.png",
         "label": "Decisionmakers",
@@ -297,16 +300,16 @@ report({
           },
           "rawMisMatchPercentage": 16.30258829639889,
           "misMatchPercentage": "16.30",
-          "analysisTime": 674
+          "analysisTime": 702
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers_0_document_0_Breakpoint_XS.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers_0_document_0_Breakpoint_XS.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_0_document_1_Breakpoint_S.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers_0_document_1_Breakpoint_S.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_0_document_1_Breakpoint_S.png",
         "label": "Decisionmakers",
@@ -323,16 +326,16 @@ report({
           },
           "rawMisMatchPercentage": 10.884381185988467,
           "misMatchPercentage": "10.88",
-          "analysisTime": 1103
+          "analysisTime": 917
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers_0_document_1_Breakpoint_S.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers_0_document_1_Breakpoint_S.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_0_document_2_Breakpoint_M.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers_0_document_2_Breakpoint_M.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_0_document_2_Breakpoint_M.png",
         "label": "Decisionmakers",
@@ -349,16 +352,16 @@ report({
           },
           "rawMisMatchPercentage": 10.640517979452055,
           "misMatchPercentage": "10.64",
-          "analysisTime": 1087
+          "analysisTime": 1112
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers_0_document_2_Breakpoint_M.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers_0_document_2_Breakpoint_M.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_0_document_3_Breakpoint_L.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers_0_document_3_Breakpoint_L.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_0_document_3_Breakpoint_L.png",
         "label": "Decisionmakers",
@@ -375,16 +378,16 @@ report({
           },
           "rawMisMatchPercentage": 10.54676439197578,
           "misMatchPercentage": "10.55",
-          "analysisTime": 1153
+          "analysisTime": 941
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers_0_document_3_Breakpoint_L.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers_0_document_3_Breakpoint_L.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_0_document_4_Breakpoint_XL.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers_0_document_4_Breakpoint_XL.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_0_document_4_Breakpoint_XL.png",
         "label": "Decisionmakers",
@@ -401,16 +404,16 @@ report({
           },
           "rawMisMatchPercentage": 10.495066754694836,
           "misMatchPercentage": "10.50",
-          "analysisTime": 1460
+          "analysisTime": 1348
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers_0_document_4_Breakpoint_XL.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers_0_document_4_Breakpoint_XL.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_0_document_5_Breakpoint_XXL.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers_0_document_5_Breakpoint_XXL.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_0_document_5_Breakpoint_XXL.png",
         "label": "Decisionmakers",
@@ -427,16 +430,16 @@ report({
           },
           "rawMisMatchPercentage": 4.150727793471438,
           "misMatchPercentage": "4.15",
-          "analysisTime": 1366
+          "analysisTime": 1814
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers_0_document_5_Breakpoint_XXL.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers_0_document_5_Breakpoint_XXL.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_city_council_0_main_0_Breakpoint_XS.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers_-_city_council_0_main_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers_-_city_council_0_main_0_Breakpoint_XS.png",
         "selector": "main",
         "fileName": "full_Decisionmakers_-_city_council_0_main_0_Breakpoint_XS.png",
         "label": "Decisionmakers - city council",
@@ -453,16 +456,16 @@ report({
           },
           "rawMisMatchPercentage": 21.084488144825375,
           "misMatchPercentage": "21.08",
-          "analysisTime": 1000
+          "analysisTime": 1152
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers_-_city_council_0_main_0_Breakpoint_XS.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers_-_city_council_0_main_0_Breakpoint_XS.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_city_council_0_main_1_Breakpoint_S.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers_-_city_council_0_main_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers_-_city_council_0_main_1_Breakpoint_S.png",
         "selector": "main",
         "fileName": "full_Decisionmakers_-_city_council_0_main_1_Breakpoint_S.png",
         "label": "Decisionmakers - city council",
@@ -479,16 +482,16 @@ report({
           },
           "rawMisMatchPercentage": 22.026348341134927,
           "misMatchPercentage": "22.03",
-          "analysisTime": 1087
+          "analysisTime": 1321
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers_-_city_council_0_main_1_Breakpoint_S.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers_-_city_council_0_main_1_Breakpoint_S.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_city_council_0_main_2_Breakpoint_M.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers_-_city_council_0_main_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers_-_city_council_0_main_2_Breakpoint_M.png",
         "selector": "main",
         "fileName": "full_Decisionmakers_-_city_council_0_main_2_Breakpoint_M.png",
         "label": "Decisionmakers - city council",
@@ -505,16 +508,16 @@ report({
           },
           "rawMisMatchPercentage": 22.24534178698075,
           "misMatchPercentage": "22.25",
-          "analysisTime": 1713
+          "analysisTime": 1248
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers_-_city_council_0_main_2_Breakpoint_M.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers_-_city_council_0_main_2_Breakpoint_M.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_city_council_0_main_3_Breakpoint_L.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers_-_city_council_0_main_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers_-_city_council_0_main_3_Breakpoint_L.png",
         "selector": "main",
         "fileName": "full_Decisionmakers_-_city_council_0_main_3_Breakpoint_L.png",
         "label": "Decisionmakers - city council",
@@ -531,16 +534,16 @@ report({
           },
           "rawMisMatchPercentage": 1.99047512910173,
           "misMatchPercentage": "1.99",
-          "analysisTime": 1189
+          "analysisTime": 1024
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers_-_city_council_0_main_3_Breakpoint_L.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers_-_city_council_0_main_3_Breakpoint_L.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_city_council_0_main_4_Breakpoint_XL.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers_-_city_council_0_main_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers_-_city_council_0_main_4_Breakpoint_XL.png",
         "selector": "main",
         "fileName": "full_Decisionmakers_-_city_council_0_main_4_Breakpoint_XL.png",
         "label": "Decisionmakers - city council",
@@ -553,20 +556,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 27
+            "height": -27
           },
           "rawMisMatchPercentage": 1.9803878135223556,
           "misMatchPercentage": "1.98",
-          "analysisTime": 1191
+          "analysisTime": 1063
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers_-_city_council_0_main_4_Breakpoint_XL.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers_-_city_council_0_main_4_Breakpoint_XL.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_city_council_0_main_5_Breakpoint_XXL.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers_-_city_council_0_main_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers_-_city_council_0_main_5_Breakpoint_XXL.png",
         "selector": "main",
         "fileName": "full_Decisionmakers_-_city_council_0_main_5_Breakpoint_XXL.png",
         "label": "Decisionmakers - city council",
@@ -579,20 +582,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -28
+            "height": 28
           },
           "rawMisMatchPercentage": 1.394180504305043,
           "misMatchPercentage": "1.39",
-          "analysisTime": 882
+          "analysisTime": 1160
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers_-_city_council_0_main_5_Breakpoint_XXL.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers_-_city_council_0_main_5_Breakpoint_XXL.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_decisions_0_document_0_Breakpoint_XS.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers_-_decisions_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers_-_decisions_0_document_0_Breakpoint_XS.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_-_decisions_0_document_0_Breakpoint_XS.png",
         "label": "Decisionmakers - decisions",
@@ -609,16 +612,16 @@ report({
           },
           "rawMisMatchPercentage": 1.1728904792488608,
           "misMatchPercentage": "1.17",
-          "analysisTime": 406
+          "analysisTime": 358
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers_-_decisions_0_document_0_Breakpoint_XS.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers_-_decisions_0_document_0_Breakpoint_XS.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_decisions_0_document_1_Breakpoint_S.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers_-_decisions_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers_-_decisions_0_document_1_Breakpoint_S.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_-_decisions_0_document_1_Breakpoint_S.png",
         "label": "Decisionmakers - decisions",
@@ -635,16 +638,16 @@ report({
           },
           "rawMisMatchPercentage": 0.7910478547854786,
           "misMatchPercentage": "0.79",
-          "analysisTime": 467
+          "analysisTime": 610
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers_-_decisions_0_document_1_Breakpoint_S.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers_-_decisions_0_document_1_Breakpoint_S.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_decisions_0_document_2_Breakpoint_M.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers_-_decisions_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers_-_decisions_0_document_2_Breakpoint_M.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_-_decisions_0_document_2_Breakpoint_M.png",
         "label": "Decisionmakers - decisions",
@@ -661,16 +664,16 @@ report({
           },
           "rawMisMatchPercentage": 0.5886235265225933,
           "misMatchPercentage": "0.59",
-          "analysisTime": 883
+          "analysisTime": 804
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers_-_decisions_0_document_2_Breakpoint_M.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers_-_decisions_0_document_2_Breakpoint_M.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_decisions_0_document_3_Breakpoint_L.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers_-_decisions_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers_-_decisions_0_document_3_Breakpoint_L.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_-_decisions_0_document_3_Breakpoint_L.png",
         "label": "Decisionmakers - decisions",
@@ -693,7 +696,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_decisions_0_document_4_Breakpoint_XL.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers_-_decisions_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers_-_decisions_0_document_4_Breakpoint_XL.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_-_decisions_0_document_4_Breakpoint_XL.png",
         "label": "Decisionmakers - decisions",
@@ -716,7 +719,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_decisions_0_document_5_Breakpoint_XXL.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers_-_decisions_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers_-_decisions_0_document_5_Breakpoint_XXL.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_-_decisions_0_document_5_Breakpoint_XXL.png",
         "label": "Decisionmakers - decisions",
@@ -739,7 +742,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_0_Breakpoint_XS.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_0_Breakpoint_XS.png",
         "selector": "document",
         "fileName": "full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_0_Breakpoint_XS.png",
         "label": "Decisionmakers  - decisions - meeting agenda",
@@ -756,16 +759,16 @@ report({
           },
           "rawMisMatchPercentage": 9.029008103885236,
           "misMatchPercentage": "9.03",
-          "analysisTime": 839
+          "analysisTime": 932
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_0_Breakpoint_XS.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_0_Breakpoint_XS.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_1_Breakpoint_S.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_1_Breakpoint_S.png",
         "selector": "document",
         "fileName": "full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_1_Breakpoint_S.png",
         "label": "Decisionmakers  - decisions - meeting agenda",
@@ -782,16 +785,16 @@ report({
           },
           "rawMisMatchPercentage": 9.43606106106106,
           "misMatchPercentage": "9.44",
-          "analysisTime": 1116
+          "analysisTime": 981
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_1_Breakpoint_S.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_1_Breakpoint_S.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_2_Breakpoint_M.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_2_Breakpoint_M.png",
         "selector": "document",
         "fileName": "full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_2_Breakpoint_M.png",
         "label": "Decisionmakers  - decisions - meeting agenda",
@@ -808,16 +811,16 @@ report({
           },
           "rawMisMatchPercentage": 7.549976247394875,
           "misMatchPercentage": "7.55",
-          "analysisTime": 1518
+          "analysisTime": 1047
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_2_Breakpoint_M.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_2_Breakpoint_M.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_3_Breakpoint_L.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_3_Breakpoint_L.png",
         "selector": "document",
         "fileName": "full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_3_Breakpoint_L.png",
         "label": "Decisionmakers  - decisions - meeting agenda",
@@ -834,16 +837,16 @@ report({
           },
           "rawMisMatchPercentage": 7.477167360463335,
           "misMatchPercentage": "7.48",
-          "analysisTime": 1402
+          "analysisTime": 1459
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_3_Breakpoint_L.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_3_Breakpoint_L.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_4_Breakpoint_XL.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_4_Breakpoint_XL.png",
         "selector": "document",
         "fileName": "full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_4_Breakpoint_XL.png",
         "label": "Decisionmakers  - decisions - meeting agenda",
@@ -860,16 +863,16 @@ report({
           },
           "rawMisMatchPercentage": 7.822774943310658,
           "misMatchPercentage": "7.82",
-          "analysisTime": 1488
+          "analysisTime": 1298
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_4_Breakpoint_XL.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_4_Breakpoint_XL.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_5_Breakpoint_XXL.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_5_Breakpoint_XXL.png",
         "selector": "document",
         "fileName": "full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_5_Breakpoint_XXL.png",
         "label": "Decisionmakers  - decisions - meeting agenda",
@@ -886,16 +889,16 @@ report({
           },
           "rawMisMatchPercentage": 3.918863295513823,
           "misMatchPercentage": "3.92",
-          "analysisTime": 1563
+          "analysisTime": 810
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_5_Breakpoint_XXL.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_5_Breakpoint_XXL.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_without_case_number_0_document_0_Breakpoint_XS.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decision_-_without_case_number_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decision_-_without_case_number_0_document_0_Breakpoint_XS.png",
         "selector": "document",
         "fileName": "full_Decision_-_without_case_number_0_document_0_Breakpoint_XS.png",
         "label": "Decision - without case number",
@@ -912,16 +915,16 @@ report({
           },
           "rawMisMatchPercentage": 17.766943334997503,
           "misMatchPercentage": "17.77",
-          "analysisTime": 364
+          "analysisTime": 912
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decision_-_without_case_number_0_document_0_Breakpoint_XS.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decision_-_without_case_number_0_document_0_Breakpoint_XS.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_without_case_number_0_document_1_Breakpoint_S.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decision_-_without_case_number_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decision_-_without_case_number_0_document_1_Breakpoint_S.png",
         "selector": "document",
         "fileName": "full_Decision_-_without_case_number_0_document_1_Breakpoint_S.png",
         "label": "Decision - without case number",
@@ -938,16 +941,16 @@ report({
           },
           "rawMisMatchPercentage": 10.07797046586181,
           "misMatchPercentage": "10.08",
-          "analysisTime": 899
+          "analysisTime": 1219
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decision_-_without_case_number_0_document_1_Breakpoint_S.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decision_-_without_case_number_0_document_1_Breakpoint_S.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_without_case_number_0_document_2_Breakpoint_M.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decision_-_without_case_number_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decision_-_without_case_number_0_document_2_Breakpoint_M.png",
         "selector": "document",
         "fileName": "full_Decision_-_without_case_number_0_document_2_Breakpoint_M.png",
         "label": "Decision - without case number",
@@ -964,16 +967,16 @@ report({
           },
           "rawMisMatchPercentage": 8.320101806903992,
           "misMatchPercentage": "8.32",
-          "analysisTime": 919
+          "analysisTime": 1046
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decision_-_without_case_number_0_document_2_Breakpoint_M.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decision_-_without_case_number_0_document_2_Breakpoint_M.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_without_case_number_0_document_3_Breakpoint_L.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decision_-_without_case_number_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decision_-_without_case_number_0_document_3_Breakpoint_L.png",
         "selector": "document",
         "fileName": "full_Decision_-_without_case_number_0_document_3_Breakpoint_L.png",
         "label": "Decision - without case number",
@@ -990,16 +993,16 @@ report({
           },
           "rawMisMatchPercentage": 4.564973639794428,
           "misMatchPercentage": "4.56",
-          "analysisTime": 1128
+          "analysisTime": 1262
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decision_-_without_case_number_0_document_3_Breakpoint_L.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decision_-_without_case_number_0_document_3_Breakpoint_L.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_without_case_number_0_document_4_Breakpoint_XL.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decision_-_without_case_number_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decision_-_without_case_number_0_document_4_Breakpoint_XL.png",
         "selector": "document",
         "fileName": "full_Decision_-_without_case_number_0_document_4_Breakpoint_XL.png",
         "label": "Decision - without case number",
@@ -1016,16 +1019,16 @@ report({
           },
           "rawMisMatchPercentage": 4.536039137440048,
           "misMatchPercentage": "4.54",
-          "analysisTime": 1037
+          "analysisTime": 1411
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decision_-_without_case_number_0_document_4_Breakpoint_XL.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decision_-_without_case_number_0_document_4_Breakpoint_XL.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_without_case_number_0_document_5_Breakpoint_XXL.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decision_-_without_case_number_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decision_-_without_case_number_0_document_5_Breakpoint_XXL.png",
         "selector": "document",
         "fileName": "full_Decision_-_without_case_number_0_document_5_Breakpoint_XXL.png",
         "label": "Decision - without case number",
@@ -1042,16 +1045,16 @@ report({
           },
           "rawMisMatchPercentage": 2.085987992068155,
           "misMatchPercentage": "2.09",
-          "analysisTime": 1643
+          "analysisTime": 1456
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decision_-_without_case_number_0_document_5_Breakpoint_XXL.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decision_-_without_case_number_0_document_5_Breakpoint_XXL.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_full_0_document_0_Breakpoint_XS.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decision_-_full_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decision_-_full_0_document_0_Breakpoint_XS.png",
         "selector": "document",
         "fileName": "full_Decision_-_full_0_document_0_Breakpoint_XS.png",
         "label": "Decision - full",
@@ -1068,16 +1071,16 @@ report({
           },
           "rawMisMatchPercentage": 17.048057768924302,
           "misMatchPercentage": "17.05",
-          "analysisTime": 1007
+          "analysisTime": 1104
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decision_-_full_0_document_0_Breakpoint_XS.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decision_-_full_0_document_0_Breakpoint_XS.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_full_0_document_1_Breakpoint_S.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decision_-_full_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decision_-_full_0_document_1_Breakpoint_S.png",
         "selector": "document",
         "fileName": "full_Decision_-_full_0_document_1_Breakpoint_S.png",
         "label": "Decision - full",
@@ -1094,16 +1097,16 @@ report({
           },
           "rawMisMatchPercentage": 10.45331281149223,
           "misMatchPercentage": "10.45",
-          "analysisTime": 1024
+          "analysisTime": 1217
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decision_-_full_0_document_1_Breakpoint_S.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decision_-_full_0_document_1_Breakpoint_S.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_full_0_document_2_Breakpoint_M.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decision_-_full_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decision_-_full_0_document_2_Breakpoint_M.png",
         "selector": "document",
         "fileName": "full_Decision_-_full_0_document_2_Breakpoint_M.png",
         "label": "Decision - full",
@@ -1120,16 +1123,16 @@ report({
           },
           "rawMisMatchPercentage": 8.584242437413074,
           "misMatchPercentage": "8.58",
-          "analysisTime": 1278
+          "analysisTime": 1330
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decision_-_full_0_document_2_Breakpoint_M.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decision_-_full_0_document_2_Breakpoint_M.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_full_0_document_3_Breakpoint_L.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decision_-_full_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decision_-_full_0_document_3_Breakpoint_L.png",
         "selector": "document",
         "fileName": "full_Decision_-_full_0_document_3_Breakpoint_L.png",
         "label": "Decision - full",
@@ -1146,16 +1149,16 @@ report({
           },
           "rawMisMatchPercentage": 8.082621347525903,
           "misMatchPercentage": "8.08",
-          "analysisTime": 1638
+          "analysisTime": 1028
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decision_-_full_0_document_3_Breakpoint_L.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decision_-_full_0_document_3_Breakpoint_L.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_full_0_document_4_Breakpoint_XL.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decision_-_full_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decision_-_full_0_document_4_Breakpoint_XL.png",
         "selector": "document",
         "fileName": "full_Decision_-_full_0_document_4_Breakpoint_XL.png",
         "label": "Decision - full",
@@ -1172,16 +1175,16 @@ report({
           },
           "rawMisMatchPercentage": 7.878756546362456,
           "misMatchPercentage": "7.88",
-          "analysisTime": 1431
+          "analysisTime": 1261
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decision_-_full_0_document_4_Breakpoint_XL.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decision_-_full_0_document_4_Breakpoint_XL.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_full_0_document_5_Breakpoint_XXL.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decision_-_full_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decision_-_full_0_document_5_Breakpoint_XXL.png",
         "selector": "document",
         "fileName": "full_Decision_-_full_0_document_5_Breakpoint_XXL.png",
         "label": "Decision - full",
@@ -1198,16 +1201,16 @@ report({
           },
           "rawMisMatchPercentage": 2.619976583954492,
           "misMatchPercentage": "2.62",
-          "analysisTime": 830
+          "analysisTime": 1471
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decision_-_full_0_document_5_Breakpoint_XXL.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decision_-_full_0_document_5_Breakpoint_XXL.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_confidential_0_document_0_Breakpoint_XS.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decision_-_confidential_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decision_-_confidential_0_document_0_Breakpoint_XS.png",
         "selector": "document",
         "fileName": "full_Decision_-_confidential_0_document_0_Breakpoint_XS.png",
         "label": "Decision - confidential",
@@ -1220,20 +1223,20 @@ report({
           "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": -25
+            "height": 25
           },
           "rawMisMatchPercentage": 21.388377515954833,
           "misMatchPercentage": "21.39",
-          "analysisTime": 641
+          "analysisTime": 726
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decision_-_confidential_0_document_0_Breakpoint_XS.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decision_-_confidential_0_document_0_Breakpoint_XS.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_confidential_0_document_1_Breakpoint_S.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decision_-_confidential_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decision_-_confidential_0_document_1_Breakpoint_S.png",
         "selector": "document",
         "fileName": "full_Decision_-_confidential_0_document_1_Breakpoint_S.png",
         "label": "Decision - confidential",
@@ -1250,16 +1253,16 @@ report({
           },
           "rawMisMatchPercentage": 12.471416396651817,
           "misMatchPercentage": "12.47",
-          "analysisTime": 831
+          "analysisTime": 726
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decision_-_confidential_0_document_1_Breakpoint_S.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decision_-_confidential_0_document_1_Breakpoint_S.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_confidential_0_document_2_Breakpoint_M.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decision_-_confidential_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decision_-_confidential_0_document_2_Breakpoint_M.png",
         "selector": "document",
         "fileName": "full_Decision_-_confidential_0_document_2_Breakpoint_M.png",
         "label": "Decision - confidential",
@@ -1276,16 +1279,16 @@ report({
           },
           "rawMisMatchPercentage": 10.104084774633124,
           "misMatchPercentage": "10.10",
-          "analysisTime": 1005
+          "analysisTime": 386
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decision_-_confidential_0_document_2_Breakpoint_M.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decision_-_confidential_0_document_2_Breakpoint_M.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_confidential_0_document_3_Breakpoint_L.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decision_-_confidential_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decision_-_confidential_0_document_3_Breakpoint_L.png",
         "selector": "document",
         "fileName": "full_Decision_-_confidential_0_document_3_Breakpoint_L.png",
         "label": "Decision - confidential",
@@ -1302,16 +1305,16 @@ report({
           },
           "rawMisMatchPercentage": 10.227678737146888,
           "misMatchPercentage": "10.23",
-          "analysisTime": 943
+          "analysisTime": 1152
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decision_-_confidential_0_document_3_Breakpoint_L.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decision_-_confidential_0_document_3_Breakpoint_L.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_confidential_0_document_4_Breakpoint_XL.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decision_-_confidential_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decision_-_confidential_0_document_4_Breakpoint_XL.png",
         "selector": "document",
         "fileName": "full_Decision_-_confidential_0_document_4_Breakpoint_XL.png",
         "label": "Decision - confidential",
@@ -1328,16 +1331,16 @@ report({
           },
           "rawMisMatchPercentage": 9.990773788118528,
           "misMatchPercentage": "9.99",
-          "analysisTime": 1184
+          "analysisTime": 830
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decision_-_confidential_0_document_4_Breakpoint_XL.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decision_-_confidential_0_document_4_Breakpoint_XL.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_confidential_0_document_5_Breakpoint_XXL.png",
-        "test": "../bitmaps_test/20260127-070357/full_Decision_-_confidential_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260127-071827/full_Decision_-_confidential_0_document_5_Breakpoint_XXL.png",
         "selector": "document",
         "fileName": "full_Decision_-_confidential_0_document_5_Breakpoint_XXL.png",
         "label": "Decision - confidential",
@@ -1354,9 +1357,9 @@ report({
           },
           "rawMisMatchPercentage": 3.3235076491389917,
           "misMatchPercentage": "3.32",
-          "analysisTime": 1600
+          "analysisTime": 1576
         },
-        "diffImage": "../bitmaps_test/20260127-070357/failed_diff_full_Decision_-_confidential_0_document_5_Breakpoint_XXL.png"
+        "diffImage": "../bitmaps_test/20260127-071827/failed_diff_full_Decision_-_confidential_0_document_5_Breakpoint_XXL.png"
       },
       "status": "fail"
     }
