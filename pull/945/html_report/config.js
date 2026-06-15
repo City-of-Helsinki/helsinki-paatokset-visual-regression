@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_0_Breakpoint_XS.png",
-        "test": "../bitmaps_test/20260615-090032/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260615-125928/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_0_Breakpoint_XS.png",
         "selector": "#block-hdbt-subtheme-frontpagesearchheroblock",
         "fileName": "full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_0_Breakpoint_XS.png",
         "label": "Landing page - hero",
@@ -27,7 +27,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_1_Breakpoint_S.png",
-        "test": "../bitmaps_test/20260615-090032/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260615-125928/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_1_Breakpoint_S.png",
         "selector": "#block-hdbt-subtheme-frontpagesearchheroblock",
         "fileName": "full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_1_Breakpoint_S.png",
         "label": "Landing page - hero",
@@ -50,7 +50,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_2_Breakpoint_M.png",
-        "test": "../bitmaps_test/20260615-090032/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260615-125928/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_2_Breakpoint_M.png",
         "selector": "#block-hdbt-subtheme-frontpagesearchheroblock",
         "fileName": "full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_2_Breakpoint_M.png",
         "label": "Landing page - hero",
@@ -73,7 +73,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_3_Breakpoint_L.png",
-        "test": "../bitmaps_test/20260615-090032/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260615-125928/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_3_Breakpoint_L.png",
         "selector": "#block-hdbt-subtheme-frontpagesearchheroblock",
         "fileName": "full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_3_Breakpoint_L.png",
         "label": "Landing page - hero",
@@ -96,7 +96,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_4_Breakpoint_XL.png",
-        "test": "../bitmaps_test/20260615-090032/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260615-125928/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_4_Breakpoint_XL.png",
         "selector": "#block-hdbt-subtheme-frontpagesearchheroblock",
         "fileName": "full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_4_Breakpoint_XL.png",
         "label": "Landing page - hero",
@@ -119,7 +119,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_5_Breakpoint_XXL.png",
-        "test": "../bitmaps_test/20260615-090032/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260615-125928/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_5_Breakpoint_XXL.png",
         "selector": "#block-hdbt-subtheme-frontpagesearchheroblock",
         "fileName": "full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_5_Breakpoint_XXL.png",
         "label": "Landing page - hero",
@@ -142,7 +142,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Notices_0_component--all-articles-block_0_Breakpoint_XS.png",
-        "test": "../bitmaps_test/20260615-090032/full_Notices_0_component--all-articles-block_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260615-125928/full_Notices_0_component--all-articles-block_0_Breakpoint_XS.png",
         "selector": ".component--all-articles-block",
         "fileName": "full_Notices_0_component--all-articles-block_0_Breakpoint_XS.png",
         "label": "Notices",
@@ -165,7 +165,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Notices_0_component--all-articles-block_1_Breakpoint_S.png",
-        "test": "../bitmaps_test/20260615-090032/full_Notices_0_component--all-articles-block_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260615-125928/full_Notices_0_component--all-articles-block_1_Breakpoint_S.png",
         "selector": ".component--all-articles-block",
         "fileName": "full_Notices_0_component--all-articles-block_1_Breakpoint_S.png",
         "label": "Notices",
@@ -188,7 +188,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Notices_0_component--all-articles-block_2_Breakpoint_M.png",
-        "test": "../bitmaps_test/20260615-090032/full_Notices_0_component--all-articles-block_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260615-125928/full_Notices_0_component--all-articles-block_2_Breakpoint_M.png",
         "selector": ".component--all-articles-block",
         "fileName": "full_Notices_0_component--all-articles-block_2_Breakpoint_M.png",
         "label": "Notices",
@@ -211,7 +211,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Notices_0_component--all-articles-block_3_Breakpoint_L.png",
-        "test": "../bitmaps_test/20260615-090032/full_Notices_0_component--all-articles-block_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260615-125928/full_Notices_0_component--all-articles-block_3_Breakpoint_L.png",
         "selector": ".component--all-articles-block",
         "fileName": "full_Notices_0_component--all-articles-block_3_Breakpoint_L.png",
         "label": "Notices",
@@ -234,7 +234,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Notices_0_component--all-articles-block_4_Breakpoint_XL.png",
-        "test": "../bitmaps_test/20260615-090032/full_Notices_0_component--all-articles-block_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260615-125928/full_Notices_0_component--all-articles-block_4_Breakpoint_XL.png",
         "selector": ".component--all-articles-block",
         "fileName": "full_Notices_0_component--all-articles-block_4_Breakpoint_XL.png",
         "label": "Notices",
@@ -257,7 +257,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Notices_0_component--all-articles-block_5_Breakpoint_XXL.png",
-        "test": "../bitmaps_test/20260615-090032/full_Notices_0_component--all-articles-block_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260615-125928/full_Notices_0_component--all-articles-block_5_Breakpoint_XXL.png",
         "selector": ".component--all-articles-block",
         "fileName": "full_Notices_0_component--all-articles-block_5_Breakpoint_XXL.png",
         "label": "Notices",
@@ -280,7 +280,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_0_document_0_Breakpoint_XS.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers_0_document_0_Breakpoint_XS.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_0_document_0_Breakpoint_XS.png",
         "label": "Decisionmakers",
@@ -303,7 +303,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_0_document_1_Breakpoint_S.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers_0_document_1_Breakpoint_S.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_0_document_1_Breakpoint_S.png",
         "label": "Decisionmakers",
@@ -326,7 +326,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_0_document_2_Breakpoint_M.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers_0_document_2_Breakpoint_M.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_0_document_2_Breakpoint_M.png",
         "label": "Decisionmakers",
@@ -349,7 +349,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_0_document_3_Breakpoint_L.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers_0_document_3_Breakpoint_L.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_0_document_3_Breakpoint_L.png",
         "label": "Decisionmakers",
@@ -372,7 +372,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_0_document_4_Breakpoint_XL.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers_0_document_4_Breakpoint_XL.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_0_document_4_Breakpoint_XL.png",
         "label": "Decisionmakers",
@@ -395,7 +395,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_0_document_5_Breakpoint_XXL.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers_0_document_5_Breakpoint_XXL.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_0_document_5_Breakpoint_XXL.png",
         "label": "Decisionmakers",
@@ -418,7 +418,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_city_council_0_main_0_Breakpoint_XS.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers_-_city_council_0_main_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers_-_city_council_0_main_0_Breakpoint_XS.png",
         "selector": "main",
         "fileName": "full_Decisionmakers_-_city_council_0_main_0_Breakpoint_XS.png",
         "label": "Decisionmakers - city council",
@@ -428,20 +428,23 @@ report({
         "expect": 0,
         "viewportLabel": "Breakpoint_XS",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": -46
           },
-          "misMatchPercentage": "0.00"
-        }
+          "rawMisMatchPercentage": 0,
+          "misMatchPercentage": "0.00",
+          "analysisTime": 135
+        },
+        "diffImage": "../bitmaps_test/20260615-125928/failed_diff_full_Decisionmakers_-_city_council_0_main_0_Breakpoint_XS.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_city_council_0_main_1_Breakpoint_S.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers_-_city_council_0_main_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers_-_city_council_0_main_1_Breakpoint_S.png",
         "selector": "main",
         "fileName": "full_Decisionmakers_-_city_council_0_main_1_Breakpoint_S.png",
         "label": "Decisionmakers - city council",
@@ -451,23 +454,23 @@ report({
         "expect": 0,
         "viewportLabel": "Breakpoint_S",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": 91
+            "height": 0
           },
-          "rawMisMatchPercentage": 0,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 76
+          "rawMisMatchPercentage": 12.313493163340725,
+          "misMatchPercentage": "12.31",
+          "analysisTime": 125
         },
-        "diffImage": "../bitmaps_test/20260615-090032/failed_diff_full_Decisionmakers_-_city_council_0_main_1_Breakpoint_S.png"
+        "diffImage": "../bitmaps_test/20260615-125928/failed_diff_full_Decisionmakers_-_city_council_0_main_1_Breakpoint_S.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_city_council_0_main_2_Breakpoint_M.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers_-_city_council_0_main_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers_-_city_council_0_main_2_Breakpoint_M.png",
         "selector": "main",
         "fileName": "full_Decisionmakers_-_city_council_0_main_2_Breakpoint_M.png",
         "label": "Decisionmakers - city council",
@@ -477,23 +480,23 @@ report({
         "expect": 0,
         "viewportLabel": "Breakpoint_M",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": 91
+            "height": 0
           },
-          "rawMisMatchPercentage": 0,
-          "misMatchPercentage": "0.00",
-          "analysisTime": 93
+          "rawMisMatchPercentage": 15.87013005002533,
+          "misMatchPercentage": "15.87",
+          "analysisTime": 182
         },
-        "diffImage": "../bitmaps_test/20260615-090032/failed_diff_full_Decisionmakers_-_city_council_0_main_2_Breakpoint_M.png"
+        "diffImage": "../bitmaps_test/20260615-125928/failed_diff_full_Decisionmakers_-_city_council_0_main_2_Breakpoint_M.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_city_council_0_main_3_Breakpoint_L.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers_-_city_council_0_main_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers_-_city_council_0_main_3_Breakpoint_L.png",
         "selector": "main",
         "fileName": "full_Decisionmakers_-_city_council_0_main_3_Breakpoint_L.png",
         "label": "Decisionmakers - city council",
@@ -508,17 +511,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.04715022573627453,
-          "misMatchPercentage": "0.05",
-          "analysisTime": 173
-        }
+          "rawMisMatchPercentage": 6.496789398582423,
+          "misMatchPercentage": "6.50",
+          "analysisTime": 151
+        },
+        "diffImage": "../bitmaps_test/20260615-125928/failed_diff_full_Decisionmakers_-_city_council_0_main_3_Breakpoint_L.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_city_council_0_main_4_Breakpoint_XL.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers_-_city_council_0_main_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers_-_city_council_0_main_4_Breakpoint_XL.png",
         "selector": "main",
         "fileName": "full_Decisionmakers_-_city_council_0_main_4_Breakpoint_XL.png",
         "label": "Decisionmakers - city council",
@@ -528,23 +532,23 @@ report({
         "expect": 0,
         "viewportLabel": "Breakpoint_XL",
         "diff": {
-          "isSameDimensions": false,
+          "isSameDimensions": true,
           "dimensionDifference": {
             "width": 0,
-            "height": 91
+            "height": 0
           },
-          "rawMisMatchPercentage": 0.24908796806167402,
-          "misMatchPercentage": "0.25",
-          "analysisTime": 183
+          "rawMisMatchPercentage": 7.182323214941262,
+          "misMatchPercentage": "7.18",
+          "analysisTime": 247
         },
-        "diffImage": "../bitmaps_test/20260615-090032/failed_diff_full_Decisionmakers_-_city_council_0_main_4_Breakpoint_XL.png"
+        "diffImage": "../bitmaps_test/20260615-125928/failed_diff_full_Decisionmakers_-_city_council_0_main_4_Breakpoint_XL.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_city_council_0_main_5_Breakpoint_XXL.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers_-_city_council_0_main_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers_-_city_council_0_main_5_Breakpoint_XXL.png",
         "selector": "main",
         "fileName": "full_Decisionmakers_-_city_council_0_main_5_Breakpoint_XXL.png",
         "label": "Decisionmakers - city council",
@@ -559,18 +563,15 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 9.30879862664678,
-          "misMatchPercentage": "9.31",
-          "analysisTime": 161
-        },
-        "diffImage": "../bitmaps_test/20260615-090032/failed_diff_full_Decisionmakers_-_city_council_0_main_5_Breakpoint_XXL.png"
+          "misMatchPercentage": "0.00"
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_decisions_0_document_0_Breakpoint_XS.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers_-_decisions_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers_-_decisions_0_document_0_Breakpoint_XS.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_-_decisions_0_document_0_Breakpoint_XS.png",
         "label": "Decisionmakers - decisions",
@@ -593,7 +594,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_decisions_0_document_1_Breakpoint_S.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers_-_decisions_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers_-_decisions_0_document_1_Breakpoint_S.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_-_decisions_0_document_1_Breakpoint_S.png",
         "label": "Decisionmakers - decisions",
@@ -616,7 +617,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_decisions_0_document_2_Breakpoint_M.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers_-_decisions_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers_-_decisions_0_document_2_Breakpoint_M.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_-_decisions_0_document_2_Breakpoint_M.png",
         "label": "Decisionmakers - decisions",
@@ -639,7 +640,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_decisions_0_document_3_Breakpoint_L.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers_-_decisions_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers_-_decisions_0_document_3_Breakpoint_L.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_-_decisions_0_document_3_Breakpoint_L.png",
         "label": "Decisionmakers - decisions",
@@ -662,7 +663,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_decisions_0_document_4_Breakpoint_XL.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers_-_decisions_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers_-_decisions_0_document_4_Breakpoint_XL.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_-_decisions_0_document_4_Breakpoint_XL.png",
         "label": "Decisionmakers - decisions",
@@ -685,7 +686,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers_-_decisions_0_document_5_Breakpoint_XXL.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers_-_decisions_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers_-_decisions_0_document_5_Breakpoint_XXL.png",
         "selector": "document",
         "fileName": "full_Decisionmakers_-_decisions_0_document_5_Breakpoint_XXL.png",
         "label": "Decisionmakers - decisions",
@@ -708,7 +709,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_0_Breakpoint_XS.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_0_Breakpoint_XS.png",
         "selector": "document",
         "fileName": "full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_0_Breakpoint_XS.png",
         "label": "Decisionmakers  - decisions - meeting agenda",
@@ -731,7 +732,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_1_Breakpoint_S.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_1_Breakpoint_S.png",
         "selector": "document",
         "fileName": "full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_1_Breakpoint_S.png",
         "label": "Decisionmakers  - decisions - meeting agenda",
@@ -754,7 +755,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_2_Breakpoint_M.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_2_Breakpoint_M.png",
         "selector": "document",
         "fileName": "full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_2_Breakpoint_M.png",
         "label": "Decisionmakers  - decisions - meeting agenda",
@@ -777,7 +778,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_3_Breakpoint_L.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_3_Breakpoint_L.png",
         "selector": "document",
         "fileName": "full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_3_Breakpoint_L.png",
         "label": "Decisionmakers  - decisions - meeting agenda",
@@ -800,7 +801,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_4_Breakpoint_XL.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_4_Breakpoint_XL.png",
         "selector": "document",
         "fileName": "full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_4_Breakpoint_XL.png",
         "label": "Decisionmakers  - decisions - meeting agenda",
@@ -823,7 +824,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_5_Breakpoint_XXL.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_5_Breakpoint_XXL.png",
         "selector": "document",
         "fileName": "full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_5_Breakpoint_XXL.png",
         "label": "Decisionmakers  - decisions - meeting agenda",
@@ -846,7 +847,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_without_case_number_0_document_0_Breakpoint_XS.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_without_case_number_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_without_case_number_0_document_0_Breakpoint_XS.png",
         "selector": "document",
         "fileName": "full_Decision_-_without_case_number_0_document_0_Breakpoint_XS.png",
         "label": "Decision - without case number",
@@ -869,7 +870,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_without_case_number_0_document_1_Breakpoint_S.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_without_case_number_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_without_case_number_0_document_1_Breakpoint_S.png",
         "selector": "document",
         "fileName": "full_Decision_-_without_case_number_0_document_1_Breakpoint_S.png",
         "label": "Decision - without case number",
@@ -892,7 +893,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_without_case_number_0_document_2_Breakpoint_M.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_without_case_number_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_without_case_number_0_document_2_Breakpoint_M.png",
         "selector": "document",
         "fileName": "full_Decision_-_without_case_number_0_document_2_Breakpoint_M.png",
         "label": "Decision - without case number",
@@ -915,7 +916,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_without_case_number_0_document_3_Breakpoint_L.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_without_case_number_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_without_case_number_0_document_3_Breakpoint_L.png",
         "selector": "document",
         "fileName": "full_Decision_-_without_case_number_0_document_3_Breakpoint_L.png",
         "label": "Decision - without case number",
@@ -938,7 +939,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_without_case_number_0_document_4_Breakpoint_XL.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_without_case_number_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_without_case_number_0_document_4_Breakpoint_XL.png",
         "selector": "document",
         "fileName": "full_Decision_-_without_case_number_0_document_4_Breakpoint_XL.png",
         "label": "Decision - without case number",
@@ -961,7 +962,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_without_case_number_0_document_5_Breakpoint_XXL.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_without_case_number_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_without_case_number_0_document_5_Breakpoint_XXL.png",
         "selector": "document",
         "fileName": "full_Decision_-_without_case_number_0_document_5_Breakpoint_XXL.png",
         "label": "Decision - without case number",
@@ -984,7 +985,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_full_0_document_0_Breakpoint_XS.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_full_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_full_0_document_0_Breakpoint_XS.png",
         "selector": "document",
         "fileName": "full_Decision_-_full_0_document_0_Breakpoint_XS.png",
         "label": "Decision - full",
@@ -1007,7 +1008,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_full_0_document_1_Breakpoint_S.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_full_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_full_0_document_1_Breakpoint_S.png",
         "selector": "document",
         "fileName": "full_Decision_-_full_0_document_1_Breakpoint_S.png",
         "label": "Decision - full",
@@ -1030,7 +1031,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_full_0_document_2_Breakpoint_M.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_full_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_full_0_document_2_Breakpoint_M.png",
         "selector": "document",
         "fileName": "full_Decision_-_full_0_document_2_Breakpoint_M.png",
         "label": "Decision - full",
@@ -1053,7 +1054,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_full_0_document_3_Breakpoint_L.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_full_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_full_0_document_3_Breakpoint_L.png",
         "selector": "document",
         "fileName": "full_Decision_-_full_0_document_3_Breakpoint_L.png",
         "label": "Decision - full",
@@ -1076,7 +1077,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_full_0_document_4_Breakpoint_XL.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_full_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_full_0_document_4_Breakpoint_XL.png",
         "selector": "document",
         "fileName": "full_Decision_-_full_0_document_4_Breakpoint_XL.png",
         "label": "Decision - full",
@@ -1099,7 +1100,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_full_0_document_5_Breakpoint_XXL.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_full_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_full_0_document_5_Breakpoint_XXL.png",
         "selector": "document",
         "fileName": "full_Decision_-_full_0_document_5_Breakpoint_XXL.png",
         "label": "Decision - full",
@@ -1122,7 +1123,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_confidential_0_document_0_Breakpoint_XS.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_confidential_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_confidential_0_document_0_Breakpoint_XS.png",
         "selector": "document",
         "fileName": "full_Decision_-_confidential_0_document_0_Breakpoint_XS.png",
         "label": "Decision - confidential",
@@ -1145,7 +1146,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_confidential_0_document_1_Breakpoint_S.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_confidential_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_confidential_0_document_1_Breakpoint_S.png",
         "selector": "document",
         "fileName": "full_Decision_-_confidential_0_document_1_Breakpoint_S.png",
         "label": "Decision - confidential",
@@ -1168,7 +1169,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_confidential_0_document_2_Breakpoint_M.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_confidential_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_confidential_0_document_2_Breakpoint_M.png",
         "selector": "document",
         "fileName": "full_Decision_-_confidential_0_document_2_Breakpoint_M.png",
         "label": "Decision - confidential",
@@ -1191,7 +1192,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_confidential_0_document_3_Breakpoint_L.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_confidential_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_confidential_0_document_3_Breakpoint_L.png",
         "selector": "document",
         "fileName": "full_Decision_-_confidential_0_document_3_Breakpoint_L.png",
         "label": "Decision - confidential",
@@ -1214,7 +1215,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_confidential_0_document_4_Breakpoint_XL.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_confidential_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_confidential_0_document_4_Breakpoint_XL.png",
         "selector": "document",
         "fileName": "full_Decision_-_confidential_0_document_4_Breakpoint_XL.png",
         "label": "Decision - confidential",
@@ -1237,7 +1238,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_confidential_0_document_5_Breakpoint_XXL.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_confidential_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_confidential_0_document_5_Breakpoint_XXL.png",
         "selector": "document",
         "fileName": "full_Decision_-_confidential_0_document_5_Breakpoint_XXL.png",
         "label": "Decision - confidential",
@@ -1260,7 +1261,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_tables_0_document_0_Breakpoint_XS.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_tables_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_tables_0_document_0_Breakpoint_XS.png",
         "selector": "document",
         "fileName": "full_Decision_-_tables_0_document_0_Breakpoint_XS.png",
         "label": "Decision - tables",
@@ -1283,7 +1284,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_tables_0_document_1_Breakpoint_S.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_tables_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_tables_0_document_1_Breakpoint_S.png",
         "selector": "document",
         "fileName": "full_Decision_-_tables_0_document_1_Breakpoint_S.png",
         "label": "Decision - tables",
@@ -1306,7 +1307,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_tables_0_document_2_Breakpoint_M.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_tables_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_tables_0_document_2_Breakpoint_M.png",
         "selector": "document",
         "fileName": "full_Decision_-_tables_0_document_2_Breakpoint_M.png",
         "label": "Decision - tables",
@@ -1329,7 +1330,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_tables_0_document_3_Breakpoint_L.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_tables_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_tables_0_document_3_Breakpoint_L.png",
         "selector": "document",
         "fileName": "full_Decision_-_tables_0_document_3_Breakpoint_L.png",
         "label": "Decision - tables",
@@ -1352,7 +1353,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_tables_0_document_4_Breakpoint_XL.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_tables_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_tables_0_document_4_Breakpoint_XL.png",
         "selector": "document",
         "fileName": "full_Decision_-_tables_0_document_4_Breakpoint_XL.png",
         "label": "Decision - tables",
@@ -1375,7 +1376,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/full_Decision_-_tables_0_document_5_Breakpoint_XXL.png",
-        "test": "../bitmaps_test/20260615-090032/full_Decision_-_tables_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20260615-125928/full_Decision_-_tables_0_document_5_Breakpoint_XXL.png",
         "selector": "document",
         "fileName": "full_Decision_-_tables_0_document_5_Breakpoint_XXL.png",
         "label": "Decision - tables",
