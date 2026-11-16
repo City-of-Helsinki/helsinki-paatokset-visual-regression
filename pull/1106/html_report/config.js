@@ -1,0 +1,1469 @@
+report({
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20261116-054244/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_0_Breakpoint_XS.png",
+        "selector": "#block-hdbt-subtheme-frontpagesearchheroblock",
+        "fileName": "full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_0_Breakpoint_XS.png",
+        "label": "Landing page - hero",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/etusivu",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20261116-054244/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_1_Breakpoint_S.png",
+        "selector": "#block-hdbt-subtheme-frontpagesearchheroblock",
+        "fileName": "full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_1_Breakpoint_S.png",
+        "label": "Landing page - hero",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/etusivu",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20261116-054244/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_2_Breakpoint_M.png",
+        "selector": "#block-hdbt-subtheme-frontpagesearchheroblock",
+        "fileName": "full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_2_Breakpoint_M.png",
+        "label": "Landing page - hero",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/etusivu",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20261116-054244/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_3_Breakpoint_L.png",
+        "selector": "#block-hdbt-subtheme-frontpagesearchheroblock",
+        "fileName": "full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_3_Breakpoint_L.png",
+        "label": "Landing page - hero",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/etusivu",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20261116-054244/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_4_Breakpoint_XL.png",
+        "selector": "#block-hdbt-subtheme-frontpagesearchheroblock",
+        "fileName": "full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_4_Breakpoint_XL.png",
+        "label": "Landing page - hero",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/etusivu",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20261116-054244/full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_5_Breakpoint_XXL.png",
+        "selector": "#block-hdbt-subtheme-frontpagesearchheroblock",
+        "fileName": "full_Landing_page_-_hero_0_block-hdbt-subtheme-frontpagesearchheroblock_5_Breakpoint_XXL.png",
+        "label": "Landing page - hero",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/etusivu",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Notices_0_component--all-articles-block_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20261116-054244/full_Notices_0_component--all-articles-block_0_Breakpoint_XS.png",
+        "selector": ".component--all-articles-block",
+        "fileName": "full_Notices_0_component--all-articles-block_0_Breakpoint_XS.png",
+        "label": "Notices",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/kuulutukset-ja-ilmoitukset",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Notices_0_component--all-articles-block_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20261116-054244/full_Notices_0_component--all-articles-block_1_Breakpoint_S.png",
+        "selector": ".component--all-articles-block",
+        "fileName": "full_Notices_0_component--all-articles-block_1_Breakpoint_S.png",
+        "label": "Notices",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/kuulutukset-ja-ilmoitukset",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Notices_0_component--all-articles-block_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20261116-054244/full_Notices_0_component--all-articles-block_2_Breakpoint_M.png",
+        "selector": ".component--all-articles-block",
+        "fileName": "full_Notices_0_component--all-articles-block_2_Breakpoint_M.png",
+        "label": "Notices",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/kuulutukset-ja-ilmoitukset",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Notices_0_component--all-articles-block_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20261116-054244/full_Notices_0_component--all-articles-block_3_Breakpoint_L.png",
+        "selector": ".component--all-articles-block",
+        "fileName": "full_Notices_0_component--all-articles-block_3_Breakpoint_L.png",
+        "label": "Notices",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/kuulutukset-ja-ilmoitukset",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Notices_0_component--all-articles-block_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20261116-054244/full_Notices_0_component--all-articles-block_4_Breakpoint_XL.png",
+        "selector": ".component--all-articles-block",
+        "fileName": "full_Notices_0_component--all-articles-block_4_Breakpoint_XL.png",
+        "label": "Notices",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/kuulutukset-ja-ilmoitukset",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Notices_0_component--all-articles-block_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20261116-054244/full_Notices_0_component--all-articles-block_5_Breakpoint_XXL.png",
+        "selector": ".component--all-articles-block",
+        "fileName": "full_Notices_0_component--all-articles-block_5_Breakpoint_XXL.png",
+        "label": "Notices",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/kuulutukset-ja-ilmoitukset",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_Decisionmakers_0_document_0_Breakpoint_XS.png",
+        "label": "Decisionmakers",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_Decisionmakers_0_document_1_Breakpoint_S.png",
+        "label": "Decisionmakers",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_Decisionmakers_0_document_2_Breakpoint_M.png",
+        "label": "Decisionmakers",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_Decisionmakers_0_document_3_Breakpoint_L.png",
+        "label": "Decisionmakers",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_Decisionmakers_0_document_4_Breakpoint_XL.png",
+        "label": "Decisionmakers",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_Decisionmakers_0_document_5_Breakpoint_XXL.png",
+        "label": "Decisionmakers",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers_-_city_council_0_main_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers_-_city_council_0_main_0_Breakpoint_XS.png",
+        "selector": "main",
+        "fileName": "full_Decisionmakers_-_city_council_0_main_0_Breakpoint_XS.png",
+        "label": "Decisionmakers - city council",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat/kaupunginvaltuusto",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers_-_city_council_0_main_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers_-_city_council_0_main_1_Breakpoint_S.png",
+        "selector": "main",
+        "fileName": "full_Decisionmakers_-_city_council_0_main_1_Breakpoint_S.png",
+        "label": "Decisionmakers - city council",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat/kaupunginvaltuusto",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 12.315482056335716,
+          "misMatchPercentage": "12.32",
+          "analysisTime": 295
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decisionmakers_-_city_council_0_main_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers_-_city_council_0_main_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers_-_city_council_0_main_2_Breakpoint_M.png",
+        "selector": "main",
+        "fileName": "full_Decisionmakers_-_city_council_0_main_2_Breakpoint_M.png",
+        "label": "Decisionmakers - city council",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat/kaupunginvaltuusto",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers_-_city_council_0_main_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers_-_city_council_0_main_3_Breakpoint_L.png",
+        "selector": "main",
+        "fileName": "full_Decisionmakers_-_city_council_0_main_3_Breakpoint_L.png",
+        "label": "Decisionmakers - city council",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat/kaupunginvaltuusto",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.04715022573627453,
+          "misMatchPercentage": "0.05",
+          "analysisTime": 932
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers_-_city_council_0_main_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers_-_city_council_0_main_4_Breakpoint_XL.png",
+        "selector": "main",
+        "fileName": "full_Decisionmakers_-_city_council_0_main_4_Breakpoint_XL.png",
+        "label": "Decisionmakers - city council",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat/kaupunginvaltuusto",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 7.1810326037077825,
+          "misMatchPercentage": "7.18",
+          "analysisTime": 696
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decisionmakers_-_city_council_0_main_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers_-_city_council_0_main_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers_-_city_council_0_main_5_Breakpoint_XXL.png",
+        "selector": "main",
+        "fileName": "full_Decisionmakers_-_city_council_0_main_5_Breakpoint_XXL.png",
+        "label": "Decisionmakers - city council",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat/kaupunginvaltuusto",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 9.307885906040267,
+          "misMatchPercentage": "9.31",
+          "analysisTime": 746
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decisionmakers_-_city_council_0_main_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers_-_decisions_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers_-_decisions_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_Decisionmakers_-_decisions_0_document_0_Breakpoint_XS.png",
+        "label": "Decisionmakers - decisions",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat/kaupunginvaltuusto/asiakirjat",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers_-_decisions_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers_-_decisions_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_Decisionmakers_-_decisions_0_document_1_Breakpoint_S.png",
+        "label": "Decisionmakers - decisions",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat/kaupunginvaltuusto/asiakirjat",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers_-_decisions_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers_-_decisions_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_Decisionmakers_-_decisions_0_document_2_Breakpoint_M.png",
+        "label": "Decisionmakers - decisions",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat/kaupunginvaltuusto/asiakirjat",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers_-_decisions_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers_-_decisions_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_Decisionmakers_-_decisions_0_document_3_Breakpoint_L.png",
+        "label": "Decisionmakers - decisions",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat/kaupunginvaltuusto/asiakirjat",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers_-_decisions_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers_-_decisions_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_Decisionmakers_-_decisions_0_document_4_Breakpoint_XL.png",
+        "label": "Decisionmakers - decisions",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat/kaupunginvaltuusto/asiakirjat",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers_-_decisions_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers_-_decisions_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_Decisionmakers_-_decisions_0_document_5_Breakpoint_XXL.png",
+        "label": "Decisionmakers - decisions",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat/kaupunginvaltuusto/asiakirjat",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_0_Breakpoint_XS.png",
+        "label": "Decisionmakers  - decisions - meeting agenda",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat/kaupunginvaltuusto/asiakirjat/02900202514",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_1_Breakpoint_S.png",
+        "label": "Decisionmakers  - decisions - meeting agenda",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat/kaupunginvaltuusto/asiakirjat/02900202514",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_2_Breakpoint_M.png",
+        "label": "Decisionmakers  - decisions - meeting agenda",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat/kaupunginvaltuusto/asiakirjat/02900202514",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_3_Breakpoint_L.png",
+        "label": "Decisionmakers  - decisions - meeting agenda",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat/kaupunginvaltuusto/asiakirjat/02900202514",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_4_Breakpoint_XL.png",
+        "label": "Decisionmakers  - decisions - meeting agenda",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat/kaupunginvaltuusto/asiakirjat/02900202514",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_Decisionmakers__-_decisions_-_meeting_agenda_0_document_5_Breakpoint_XXL.png",
+        "label": "Decisionmakers  - decisions - meeting agenda",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/paattajat/kaupunginvaltuusto/asiakirjat/02900202514",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_without_case_number_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_without_case_number_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_without_case_number_0_document_0_Breakpoint_XS.png",
+        "label": "Decision - without case number",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/731e1d08-2d89-405f-94e4-fdb32692b55b",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 56
+          },
+          "rawMisMatchPercentage": 9.757163671685284,
+          "misMatchPercentage": "9.76",
+          "analysisTime": 416
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_without_case_number_0_document_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_without_case_number_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_without_case_number_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_without_case_number_0_document_1_Breakpoint_S.png",
+        "label": "Decision - without case number",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/731e1d08-2d89-405f-94e4-fdb32692b55b",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 1.9674860173248754,
+          "misMatchPercentage": "1.97",
+          "analysisTime": 477
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_without_case_number_0_document_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_without_case_number_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_without_case_number_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_without_case_number_0_document_2_Breakpoint_M.png",
+        "label": "Decision - without case number",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/731e1d08-2d89-405f-94e4-fdb32692b55b",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -56
+          },
+          "rawMisMatchPercentage": 7.523292733708099,
+          "misMatchPercentage": "7.52",
+          "analysisTime": 677
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_without_case_number_0_document_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_without_case_number_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_without_case_number_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_without_case_number_0_document_3_Breakpoint_L.png",
+        "label": "Decision - without case number",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/731e1d08-2d89-405f-94e4-fdb32692b55b",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 28
+          },
+          "rawMisMatchPercentage": 4.573239068307899,
+          "misMatchPercentage": "4.57",
+          "analysisTime": 683
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_without_case_number_0_document_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_without_case_number_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_without_case_number_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_without_case_number_0_document_4_Breakpoint_XL.png",
+        "label": "Decision - without case number",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/731e1d08-2d89-405f-94e4-fdb32692b55b",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 28
+          },
+          "rawMisMatchPercentage": 4.568283279220779,
+          "misMatchPercentage": "4.57",
+          "analysisTime": 562
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_without_case_number_0_document_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_without_case_number_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_without_case_number_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_without_case_number_0_document_5_Breakpoint_XXL.png",
+        "label": "Decision - without case number",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/731e1d08-2d89-405f-94e4-fdb32692b55b",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -56
+          },
+          "rawMisMatchPercentage": 2.1824058584851933,
+          "misMatchPercentage": "2.18",
+          "analysisTime": 842
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_without_case_number_0_document_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_full_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_full_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_full_0_document_0_Breakpoint_XS.png",
+        "label": "Decision - full",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/hel-2023-013016/c7b5c756-84b3-4519-bb5f-3cd558f06225",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -56
+          },
+          "rawMisMatchPercentage": 5.313563203349908,
+          "misMatchPercentage": "5.31",
+          "analysisTime": 497
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_full_0_document_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_full_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_full_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_full_0_document_1_Breakpoint_S.png",
+        "label": "Decision - full",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/hel-2023-013016/c7b5c756-84b3-4519-bb5f-3cd558f06225",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 1.0961205474934037,
+          "misMatchPercentage": "1.10",
+          "analysisTime": 734
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_full_0_document_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_full_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_full_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_full_0_document_2_Breakpoint_M.png",
+        "label": "Decision - full",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/hel-2023-013016/c7b5c756-84b3-4519-bb5f-3cd558f06225",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -56
+          },
+          "rawMisMatchPercentage": 4.138333475443384,
+          "misMatchPercentage": "4.14",
+          "analysisTime": 689
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_full_0_document_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_full_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_full_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_full_0_document_3_Breakpoint_L.png",
+        "label": "Decision - full",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/hel-2023-013016/c7b5c756-84b3-4519-bb5f-3cd558f06225",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 28
+          },
+          "rawMisMatchPercentage": 2.572338475319508,
+          "misMatchPercentage": "2.57",
+          "analysisTime": 1192
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_full_0_document_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_full_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_full_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_full_0_document_4_Breakpoint_XL.png",
+        "label": "Decision - full",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/hel-2023-013016/c7b5c756-84b3-4519-bb5f-3cd558f06225",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 28
+          },
+          "rawMisMatchPercentage": 2.5202060461737164,
+          "misMatchPercentage": "2.52",
+          "analysisTime": 944
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_full_0_document_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_full_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_full_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_full_0_document_5_Breakpoint_XXL.png",
+        "label": "Decision - full",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/hel-2023-013016/c7b5c756-84b3-4519-bb5f-3cd558f06225",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -56
+          },
+          "rawMisMatchPercentage": 1.4824991596235113,
+          "misMatchPercentage": "1.48",
+          "analysisTime": 643
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_full_0_document_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_confidential_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_confidential_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_confidential_0_document_0_Breakpoint_XS.png",
+        "label": "Decision - confidential",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/hel-2024-014058/147213c7-b063-40fc-a319-c91d5b846623",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -56
+          },
+          "rawMisMatchPercentage": 9.70048972766364,
+          "misMatchPercentage": "9.70",
+          "analysisTime": 512
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_confidential_0_document_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_confidential_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_confidential_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_confidential_0_document_1_Breakpoint_S.png",
+        "label": "Decision - confidential",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/hel-2024-014058/147213c7-b063-40fc-a319-c91d5b846623",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 2.019099331713244,
+          "misMatchPercentage": "2.02",
+          "analysisTime": 552
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_confidential_0_document_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_confidential_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_confidential_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_confidential_0_document_2_Breakpoint_M.png",
+        "label": "Decision - confidential",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/hel-2024-014058/147213c7-b063-40fc-a319-c91d5b846623",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -56
+          },
+          "rawMisMatchPercentage": 7.371563639125152,
+          "misMatchPercentage": "7.37",
+          "analysisTime": 421
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_confidential_0_document_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_confidential_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_confidential_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_confidential_0_document_3_Breakpoint_L.png",
+        "label": "Decision - confidential",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/hel-2024-014058/147213c7-b063-40fc-a319-c91d5b846623",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 28
+          },
+          "rawMisMatchPercentage": 4.5498194580055635,
+          "misMatchPercentage": "4.55",
+          "analysisTime": 666
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_confidential_0_document_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_confidential_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_confidential_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_confidential_0_document_4_Breakpoint_XL.png",
+        "label": "Decision - confidential",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/hel-2024-014058/147213c7-b063-40fc-a319-c91d5b846623",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 28
+          },
+          "rawMisMatchPercentage": 4.457609044831525,
+          "misMatchPercentage": "4.46",
+          "analysisTime": 733
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_confidential_0_document_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_confidential_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_confidential_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_confidential_0_document_5_Breakpoint_XXL.png",
+        "label": "Decision - confidential",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/hel-2024-014058/147213c7-b063-40fc-a319-c91d5b846623",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -56
+          },
+          "rawMisMatchPercentage": 2.303847947761194,
+          "misMatchPercentage": "2.30",
+          "analysisTime": 773
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_confidential_0_document_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_tables_0_document_0_Breakpoint_XS.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_tables_0_document_0_Breakpoint_XS.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_tables_0_document_0_Breakpoint_XS.png",
+        "label": "Decision - tables",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/hel-2025-015674/4cfc9573-4f15-c369-b43b-9a7803f00002",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XS",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 56
+          },
+          "rawMisMatchPercentage": 5.371657754010696,
+          "misMatchPercentage": "5.37",
+          "analysisTime": 511
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_tables_0_document_0_Breakpoint_XS.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_tables_0_document_1_Breakpoint_S.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_tables_0_document_1_Breakpoint_S.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_tables_0_document_1_Breakpoint_S.png",
+        "label": "Decision - tables",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/hel-2025-015674/4cfc9573-4f15-c369-b43b-9a7803f00002",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_S",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "rawMisMatchPercentage": 0.9482351249178173,
+          "misMatchPercentage": "0.95",
+          "analysisTime": 254
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_tables_0_document_1_Breakpoint_S.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_tables_0_document_2_Breakpoint_M.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_tables_0_document_2_Breakpoint_M.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_tables_0_document_2_Breakpoint_M.png",
+        "label": "Decision - tables",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/hel-2025-015674/4cfc9573-4f15-c369-b43b-9a7803f00002",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_M",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -56
+          },
+          "rawMisMatchPercentage": 3.5933149363564043,
+          "misMatchPercentage": "3.59",
+          "analysisTime": 564
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_tables_0_document_2_Breakpoint_M.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_tables_0_document_3_Breakpoint_L.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_tables_0_document_3_Breakpoint_L.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_tables_0_document_3_Breakpoint_L.png",
+        "label": "Decision - tables",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/hel-2025-015674/4cfc9573-4f15-c369-b43b-9a7803f00002",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_L",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -28
+          },
+          "rawMisMatchPercentage": 2.194493990266113,
+          "misMatchPercentage": "2.19",
+          "analysisTime": 544
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_tables_0_document_3_Breakpoint_L.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_tables_0_document_4_Breakpoint_XL.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_tables_0_document_4_Breakpoint_XL.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_tables_0_document_4_Breakpoint_XL.png",
+        "label": "Decision - tables",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/hel-2025-015674/4cfc9573-4f15-c369-b43b-9a7803f00002",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -28
+          },
+          "rawMisMatchPercentage": 2.1502283620450124,
+          "misMatchPercentage": "2.15",
+          "analysisTime": 630
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_tables_0_document_4_Breakpoint_XL.png"
+      },
+      "status": "fail"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/full_Decision_-_tables_0_document_5_Breakpoint_XXL.png",
+        "test": "../bitmaps_test/20261116-054244/full_Decision_-_tables_0_document_5_Breakpoint_XXL.png",
+        "selector": "document",
+        "fileName": "full_Decision_-_tables_0_document_5_Breakpoint_XXL.png",
+        "label": "Decision - tables",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://helsinki-paatokset:8080/fi/asia/hel-2025-015674/4cfc9573-4f15-c369-b43b-9a7803f00002",
+        "expect": 0,
+        "viewportLabel": "Breakpoint_XXL",
+        "diff": {
+          "isSameDimensions": false,
+          "dimensionDifference": {
+            "width": 0,
+            "height": -56
+          },
+          "rawMisMatchPercentage": 1.0731740933912068,
+          "misMatchPercentage": "1.07",
+          "analysisTime": 312
+        },
+        "diffImage": "../bitmaps_test/20261116-054244/failed_diff_full_Decision_-_tables_0_document_5_Breakpoint_XXL.png"
+      },
+      "status": "fail"
+    }
+  ],
+  "id": "full"
+});
